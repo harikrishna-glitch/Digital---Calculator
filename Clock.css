@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to right, #928dab, indigo);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Clock-box{
+    background: linear-gradient(to right, indigo, #928dab);
+    border-radius: 20px;
+    padding: 60px 80px;
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 4px;
+    font-weight: bold;
+    border-top: 20px groove yellow;
+    border-right:15px groove yellow;
+    border-bottom: 10px groove yellow;
+    border-left: 5px groove yellow;
+    box-shadow: 6px 6px 4px 15px blue;
+}
+#Time{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200px;
+    color: black;
+    text-shadow: 3px 3px 3px white;
+    animation: none;
+}
+#Date{
+    font-family: "Inter" sans-serif;
+    color: yellowgreen;
+    font-weight: bolder;
+    text-shadow: 4px 4px 4px yellow;
+    animation: none;
+}
+#DMN{
+    color: brown;
+    font-weight: bolder;
+    text-shadow: 6px 6px 6px red;
+    animation: none;
+}
