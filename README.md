@@ -1,4 +1,4 @@
-# Calculator
+# Digital Calculator
 --->Build a real-time clock using JavaScript’s Date () object.
 
 --->Perfect started to practice DOM updates & set interval ().
